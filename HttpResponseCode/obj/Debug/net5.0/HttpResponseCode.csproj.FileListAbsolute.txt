@@ -1,0 +1,7 @@
+C:\Users\harshini.venkatesan\source\repos\HttpResponseCode\HttpResponseCode\obj\Debug\net5.0\HttpResponseCode.csproj.AssemblyReference.cache
+C:\Users\harshini.venkatesan\source\repos\HttpResponseCode\HttpResponseCode\obj\Debug\net5.0\HttpResponseCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshini.venkatesan\source\repos\HttpResponseCode\HttpResponseCode\obj\Debug\net5.0\HttpResponseCode.AssemblyInfoInputs.cache
+C:\Users\harshini.venkatesan\source\repos\HttpResponseCode\HttpResponseCode\obj\Debug\net5.0\HttpResponseCode.AssemblyInfo.cs
+C:\Users\harshini.venkatesan\source\repos\HttpResponseCode\HttpResponseCode\obj\Debug\net5.0\HttpResponseCode.csproj.CoreCompileInputs.cache
+C:\Users\harshini.venkatesan\source\repos\HttpResponseCode\HttpResponseCode\obj\Debug\net5.0\HttpResponseCode.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harshini.venkatesan\source\repos\HttpResponseCode\HttpResponseCode\obj\Debug\net5.0\HttpResponseCode.MvcApplicationPartsAssemblyInfo.cache
